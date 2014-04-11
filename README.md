@@ -1,13 +1,5 @@
-kegerface
+bottleface
 =========
 
-A Kegerator Interface!
-This is a work in progress. Be gentle.
+This is a simple inventory system for bottles/cans, based on https://github.com/kegerface/kegerface
 
-
-Questions? Comments? Want to Contribute? email us - kegerface@gmail.com
-
-
-Note for beers.csv
-------------------------
-If you have a long beer name, change the final value from "BeerName" to "BeerNameL" and it will format correctly for 2 lines.
