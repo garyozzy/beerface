@@ -1,6 +1,6 @@
 BeerNum,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerNameL
-Beer1,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
-Beer2,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
+Beer1,Oberon,Pale Wheat Ale,Bells,5.8,42,23,Bottles,BeerName
+Beer2,All Day IPA,IPA,Founders,4.7,42,40,Bottles,BeerName
 Beer3,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
 Beer4,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
 Beer5,BeerName,Style,Brewery,ABV,IBU,SRM,Status,BeerName
